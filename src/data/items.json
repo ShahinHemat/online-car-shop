@@ -1,0 +1,43 @@
+[
+    {
+        "id" : 1,
+        "name" : "Ultra",
+        "price" : 39999.99,
+        "imgUrl" : "/imgs/car1.jpeg"
+
+    },
+    {
+        "id" : 2,
+        "name" : "Booster",
+        "price" : 44999.99,
+        "imgUrl" : "/imgs/car2.jpeg"
+
+    },
+    {
+        "id" : 3,
+        "name" : "Electrica",
+        "price" : 59999.99,
+        "imgUrl" : "/imgs/car3.jpeg"
+
+    },
+    {
+        "id" : 4,
+        "name" : "Sonic",
+        "price" : 29999.99,
+        "imgUrl" : "/imgs/car4.jpeg"
+
+    },
+    {
+        "id" : 5,
+        "name" : "Spyro",
+        "price" : 29999.99,
+        "imgUrl" : "/imgs/car5.jpeg"
+
+    },
+    {
+        "id" : 6,
+        "name" : "Bolt",
+        "price" : 79999.99,
+        "imgUrl" : "/imgs/car6.jpeg"
+    }
+]
